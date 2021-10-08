@@ -1,5 +1,5 @@
 # React_Project
-A ReactJS project which I built while learning about ReactJS 
+A Food ordering app's frontend which I built using ReactJS as a practice project. 
 Installation and execution instructions:
   1. Clone the repository in the desired folder
   2. Open terminal and change into that folder
